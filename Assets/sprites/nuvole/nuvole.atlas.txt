@@ -1,0 +1,27 @@
+
+nuvole.png
+size: 1357,1357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nuvola1
+  rotate: true
+  xy: 2, 2
+  size: 849, 620
+  orig: 849, 620
+  offset: 0, 0
+  index: -1
+Nuvola2
+  rotate: true
+  xy: 624, 69
+  size: 782, 575
+  orig: 782, 575
+  offset: 0, 0
+  index: -1
+Nuvola3
+  rotate: false
+  xy: 2, 853
+  size: 1067, 502
+  orig: 1067, 502
+  offset: 0, 0
+  index: -1

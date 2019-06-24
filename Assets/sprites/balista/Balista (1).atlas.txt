@@ -1,0 +1,55 @@
+
+Balista (1).png
+size: 3227,3225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arco
+  rotate: false
+  xy: 2, 2422
+  size: 3223, 801
+  orig: 3223, 801
+  offset: 0, 0
+  index: -1
+Manovella
+  rotate: false
+  xy: 1699, 1170
+  size: 279, 149
+  orig: 279, 149
+  offset: 0, 0
+  index: -1
+asse
+  rotate: true
+  xy: 2, 516
+  size: 207, 2798
+  orig: 207, 2798
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 2, 725
+  size: 1695, 1695
+  orig: 1695, 1695
+  offset: 0, 0
+  index: -1
+carrellone
+  rotate: false
+  xy: 1699, 1321
+  size: 894, 1099
+  orig: 894, 1099
+  offset: 0, 0
+  index: -1
+fili sx
+  rotate: false
+  xy: 2, 15
+  size: 1058, 499
+  orig: 1058, 499
+  offset: 0, 0
+  index: -1
+filo dx
+  rotate: true
+  xy: 2595, 1435
+  size: 985, 515
+  orig: 985, 515
+  offset: 0, 0
+  index: -1

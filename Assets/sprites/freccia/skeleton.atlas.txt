@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Freccia_dritta_bianca
+  rotate: true
+  xy: 2, 168
+  size: 164, 1016
+  orig: 164, 1016
+  offset: 0, 0
+  index: -1
+Freccia_dritta_rossa
+  rotate: true
+  xy: 2, 2
+  size: 164, 1016
+  orig: 164, 1016
+  offset: 0, 0
+  index: -1

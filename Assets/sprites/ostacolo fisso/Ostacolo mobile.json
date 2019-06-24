@@ -1,0 +1,67 @@
+{
+"skeleton": { "hash": "lsT5Sd2QXF1JI3Fiu4QoRNklvn4", "spine": "3.6.53", "width": 488.5, "height": 903.04, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Star 1", "parent": "root", "length": 67.19, "rotation": 92.01, "x": 232.14, "y": 785.04 },
+	{ "name": "bone", "parent": "root", "x": -154.89, "y": 478.84 },
+	{ "name": "Star 2", "parent": "bone", "length": 101.22, "rotation": 90.45, "x": 1.13, "y": -49.64 },
+	{ "name": "Star 3", "parent": "root", "length": 54.81, "rotation": 88.15, "x": 205.64, "y": 713.77 }
+],
+"slots": [
+	{ "name": "Ombra", "bone": "root", "attachment": "Ombra" },
+	{ "name": "Column", "bone": "root", "attachment": "Column" },
+	{ "name": "Busto", "bone": "root", "attachment": "Busto" },
+	{ "name": "Star 1", "bone": "Star 1", "attachment": "Star 1" },
+	{ "name": "Star 2", "bone": "Star 2", "attachment": "Star 2" },
+	{ "name": "Star 3", "bone": "Star 3", "attachment": "Star 3" }
+],
+"skins": {
+	"default": {
+		"Busto": {
+			"Busto": { "x": 21.5, "y": 601, "width": 389, "height": 518 }
+		},
+		"Column": {
+			"Column": { "x": -3.5, "y": 189.5, "width": 345, "height": 377 }
+		},
+		"Ombra": {
+			"Ombra": { "y": 4.46, "width": 461, "height": 95 }
+		},
+		"Star 1": {
+			"Star 1": { "x": 30.47, "y": -0.42, "rotation": -92.01, "width": 53, "height": 75 }
+		},
+		"Star 2": {
+			"Star 2": { "x": 52.29, "y": -1.67, "rotation": -90.45, "width": 81, "height": 119 }
+		},
+		"Star 3": {
+			"Star 3": { "x": 26.75, "rotation": -88.15, "width": 45, "height": 63 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"Star 1": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.6667, "x": 1.251, "y": 1.251 },
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			},
+			"Star 3": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.4, "x": 1.298, "y": 1.298 },
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			},
+			"Star 2": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 1.281, "y": 1.281 },
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

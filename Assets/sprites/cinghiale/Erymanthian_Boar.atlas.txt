@@ -1,0 +1,258 @@
+
+Erymanthian_Boar.png
+size: 2403,2401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 871, 156
+  size: 523, 864
+  orig: 523, 864
+  offset: 0, 0
+  index: -1
+Body 1
+  rotate: true
+  xy: 871, 156
+  size: 523, 864
+  orig: 523, 864
+  offset: 0, 0
+  index: -1
+Body 2
+  rotate: true
+  xy: 2, 156
+  size: 523, 867
+  orig: 523, 867
+  offset: 0, 0
+  index: -1
+Body 3
+  rotate: true
+  xy: 2, 156
+  size: 523, 867
+  orig: 523, 867
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 1541
+  size: 1082, 858
+  orig: 1082, 858
+  offset: 0, 0
+  index: -1
+Head 1
+  rotate: false
+  xy: 2, 681
+  size: 1082, 858
+  orig: 1082, 858
+  offset: 0, 0
+  index: -1
+Head 2
+  rotate: false
+  xy: 1086, 1541
+  size: 1082, 858
+  orig: 1082, 858
+  offset: 0, 0
+  index: -1
+Head 3
+  rotate: false
+  xy: 1086, 681
+  size: 1082, 858
+  orig: 1082, 858
+  offset: 0, 0
+  index: -1
+Paw_back_dx
+  rotate: false
+  xy: 2041, 127
+  size: 246, 248
+  orig: 246, 248
+  offset: 0, 0
+  index: -1
+Paw_back_dx 1
+  rotate: false
+  xy: 2041, 127
+  size: 246, 248
+  orig: 246, 248
+  offset: 0, 0
+  index: -1
+Paw_back_dx 2
+  rotate: false
+  xy: 2041, 127
+  size: 246, 248
+  orig: 246, 248
+  offset: 0, 0
+  index: -1
+Paw_back_dx 3
+  rotate: false
+  xy: 2041, 127
+  size: 246, 248
+  orig: 246, 248
+  offset: 0, 0
+  index: -1
+Paw_back_sx
+  rotate: false
+  xy: 2170, 2157
+  size: 231, 242
+  orig: 231, 242
+  offset: 0, 0
+  index: -1
+Paw_back_sx 1
+  rotate: false
+  xy: 2170, 2157
+  size: 231, 242
+  orig: 231, 242
+  offset: 0, 0
+  index: -1
+Paw_back_sx 2
+  rotate: false
+  xy: 2170, 2157
+  size: 231, 242
+  orig: 231, 242
+  offset: 0, 0
+  index: -1
+Paw_back_sx 3
+  rotate: false
+  xy: 2170, 2157
+  size: 231, 242
+  orig: 231, 242
+  offset: 0, 0
+  index: -1
+Paw_front_dx
+  rotate: true
+  xy: 1737, 62
+  size: 272, 302
+  orig: 272, 302
+  offset: 0, 0
+  index: -1
+Paw_front_dx 1
+  rotate: false
+  xy: 2022, 377
+  size: 272, 302
+  orig: 272, 302
+  offset: 0, 0
+  index: -1
+Paw_front_dx 2
+  rotate: false
+  xy: 2022, 377
+  size: 272, 302
+  orig: 272, 302
+  offset: 0, 0
+  index: -1
+Paw_front_dx 3
+  rotate: false
+  xy: 2022, 377
+  size: 272, 302
+  orig: 272, 302
+  offset: 0, 0
+  index: -1
+Paw_front_sx
+  rotate: false
+  xy: 1737, 336
+  size: 283, 343
+  orig: 283, 343
+  offset: 0, 0
+  index: -1
+Paw_front_sx 1
+  rotate: false
+  xy: 1737, 336
+  size: 283, 343
+  orig: 283, 343
+  offset: 0, 0
+  index: -1
+Paw_front_sx 2
+  rotate: false
+  xy: 1737, 336
+  size: 283, 343
+  orig: 283, 343
+  offset: 0, 0
+  index: -1
+Paw_front_sx 3
+  rotate: false
+  xy: 1737, 336
+  size: 283, 343
+  orig: 283, 343
+  offset: 0, 0
+  index: -1
+Pupil_dx
+  rotate: false
+  xy: 2041, 100
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Pupil_dx 1
+  rotate: false
+  xy: 2041, 100
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Pupil_dx 2
+  rotate: false
+  xy: 2041, 100
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Pupil_dx 3
+  rotate: false
+  xy: 2041, 100
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Pupil_sx
+  rotate: false
+  xy: 2, 43
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Pupil_sx 1
+  rotate: false
+  xy: 2, 43
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Pupil_sx 2
+  rotate: false
+  xy: 2, 43
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Pupil_sx 3
+  rotate: false
+  xy: 2, 43
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Tale
+  rotate: false
+  xy: 2170, 2073
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+Tale 1
+  rotate: false
+  xy: 2170, 2073
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+Tale 2
+  rotate: false
+  xy: 2, 70
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+Tale 3
+  rotate: false
+  xy: 2, 70
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,158 @@
+
+Ostacolo Mobile.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base elmo
+  rotate: false
+  xy: 2, 665
+  size: 921, 1275
+  orig: 921, 1275
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 1430, 10
+  size: 653, 584
+  orig: 653, 584
+  offset: 0, 0
+  index: -1
+Gonna
+  rotate: false
+  xy: 2, 2
+  size: 712, 661
+  orig: 712, 661
+  offset: 0, 0
+  index: -1
+Leg DX
+  rotate: false
+  xy: 1848, 1626
+  size: 182, 314
+  orig: 182, 314
+  offset: 0, 0
+  index: -1
+Leg SX
+  rotate: false
+  xy: 1848, 1310
+  size: 182, 314
+  orig: 182, 314
+  offset: 0, 0
+  index: -1
+ROCK Base elmo
+  rotate: false
+  xy: 925, 665
+  size: 921, 1275
+  orig: 921, 1275
+  offset: 0, 0
+  index: -1
+ROCK Gonna
+  rotate: false
+  xy: 716, 2
+  size: 712, 661
+  orig: 712, 661
+  offset: 0, 0
+  index: -1
+ROCK Leg DX
+  rotate: false
+  xy: 1848, 994
+  size: 182, 314
+  orig: 182, 314
+  offset: 0, 0
+  index: -1
+ROCK Leg SX
+  rotate: false
+  xy: 1848, 678
+  size: 182, 314
+  orig: 182, 314
+  offset: 0, 0
+  index: -1
+
+Ostacolo Mobile2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base Busto
+  rotate: true
+  xy: 1608, 305
+  size: 479, 371
+  orig: 479, 371
+  offset: 0, 0
+  index: -1
+Base Ciuffo
+  rotate: false
+  xy: 2, 1058
+  size: 949, 957
+  orig: 949, 957
+  offset: 0, 0
+  index: -1
+Base interno elmo
+  rotate: true
+  xy: 953, 1447
+  size: 568, 782
+  orig: 568, 782
+  offset: 0, 0
+  index: -1
+Braccio SX
+  rotate: true
+  xy: 1737, 786
+  size: 407, 301
+  orig: 407, 301
+  offset: 0, 0
+  index: -1
+Braccio dx
+  rotate: true
+  xy: 1737, 1606
+  size: 409, 301
+  orig: 409, 301
+  offset: 0, 0
+  index: -1
+ROCK Base Ciuffo
+  rotate: false
+  xy: 2, 99
+  size: 949, 957
+  orig: 949, 957
+  offset: 0, 0
+  index: -1
+ROCK Base interno elmo
+  rotate: true
+  xy: 953, 877
+  size: 568, 782
+  orig: 568, 782
+  offset: 0, 0
+  index: -1
+ROCK Braccio SX
+  rotate: false
+  xy: 1608, 2
+  size: 407, 301
+  orig: 407, 301
+  offset: 0, 0
+  index: -1
+ROCK Braccio dx
+  rotate: true
+  xy: 1737, 1195
+  size: 409, 301
+  orig: 409, 301
+  offset: 0, 0
+  index: -1
+ROCK Face
+  rotate: false
+  xy: 953, 291
+  size: 653, 584
+  orig: 653, 584
+  offset: 0, 0
+  index: -1
+
+Ostacolo Mobile3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ROCK Base Busto
+  rotate: false
+  xy: 2, 2
+  size: 479, 371
+  orig: 479, 371
+  offset: 0, 0
+  index: -1

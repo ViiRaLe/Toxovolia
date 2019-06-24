@@ -1,0 +1,342 @@
+
+cerbero forme definitive.png
+size: 2596,2596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Zampa Posteriore dx base
+  rotate: true
+  xy: 476, 2
+  size: 233, 469
+  orig: 233, 469
+  offset: 0, 0
+  index: -1
+Zampa Posteriore dx ferita 1
+  rotate: true
+  xy: 476, 2
+  size: 233, 469
+  orig: 233, 469
+  offset: 0, 0
+  index: -1
+Zampa Posteriore dx ferita 2
+  rotate: true
+  xy: 476, 2
+  size: 233, 469
+  orig: 233, 469
+  offset: 0, 0
+  index: -1
+Zampa Posteriore dx sconfitta
+  rotate: true
+  xy: 476, 2
+  size: 233, 469
+  orig: 233, 469
+  offset: 0, 0
+  index: -1
+Zampa Posteriore sx base
+  rotate: true
+  xy: 2, 2
+  size: 233, 472
+  orig: 233, 472
+  offset: 0, 0
+  index: -1
+Zampa Posteriore sx ferita 1
+  rotate: true
+  xy: 2, 2
+  size: 233, 472
+  orig: 233, 472
+  offset: 0, 0
+  index: -1
+Zampa Posteriore sx ferita 2
+  rotate: true
+  xy: 2, 2
+  size: 233, 472
+  orig: 233, 472
+  offset: 0, 0
+  index: -1
+Zampa Posteriore sx sconfitta
+  rotate: true
+  xy: 2, 2
+  size: 233, 472
+  orig: 233, 472
+  offset: 0, 0
+  index: -1
+busto
+  rotate: false
+  xy: 2, 1983
+  size: 1101, 611
+  orig: 1101, 611
+  offset: 0, 0
+  index: -1
+busto ferita 1
+  rotate: false
+  xy: 2, 1370
+  size: 1099, 611
+  orig: 1099, 611
+  offset: 0, 0
+  index: -1
+busto ferita 2
+  rotate: false
+  xy: 1105, 1983
+  size: 1099, 611
+  orig: 1099, 611
+  offset: 0, 0
+  index: -1
+busto sconfitta
+  rotate: false
+  xy: 2, 757
+  size: 1099, 611
+  orig: 1099, 611
+  offset: 0, 0
+  index: -1
+coda base
+  rotate: false
+  xy: 1692, 1160
+  size: 70, 169
+  orig: 70, 169
+  offset: 0, 0
+  index: -1
+coda ferita 1
+  rotate: false
+  xy: 1692, 1160
+  size: 70, 169
+  orig: 70, 169
+  offset: 0, 0
+  index: -1
+coda ferita 2
+  rotate: false
+  xy: 1692, 1160
+  size: 70, 169
+  orig: 70, 169
+  offset: 0, 0
+  index: -1
+coda sconfitta
+  rotate: false
+  xy: 1692, 1160
+  size: 70, 169
+  orig: 70, 169
+  offset: 0, 0
+  index: -1
+corpo base
+  rotate: false
+  xy: 1103, 1331
+  size: 660, 650
+  orig: 660, 650
+  offset: 0, 0
+  index: -1
+corpo ferita 1
+  rotate: false
+  xy: 1103, 1331
+  size: 660, 650
+  orig: 660, 650
+  offset: 0, 0
+  index: -1
+corpo ferita 2
+  rotate: false
+  xy: 1103, 1331
+  size: 660, 650
+  orig: 660, 650
+  offset: 0, 0
+  index: -1
+corpo sconfitta
+  rotate: false
+  xy: 1103, 1331
+  size: 660, 650
+  orig: 660, 650
+  offset: 0, 0
+  index: -1
+testa centrale
+  rotate: false
+  xy: 2, 237
+  size: 587, 518
+  orig: 587, 518
+  offset: 0, 0
+  index: -1
+testa centrale ferita 1
+  rotate: false
+  xy: 2, 237
+  size: 587, 518
+  orig: 587, 518
+  offset: 0, 0
+  index: -1
+testa centrale ferita 2
+  rotate: false
+  xy: 1103, 811
+  size: 587, 518
+  orig: 587, 518
+  offset: 0, 0
+  index: -1
+testa centrale sconfitta
+  rotate: false
+  xy: 591, 237
+  size: 587, 518
+  orig: 587, 518
+  offset: 0, 0
+  index: -1
+testa dx
+  rotate: false
+  xy: 1765, 1498
+  size: 415, 483
+  orig: 415, 483
+  offset: 0, 0
+  index: -1
+testa dx ferita 1
+  rotate: false
+  xy: 1180, 326
+  size: 415, 483
+  orig: 415, 483
+  offset: 0, 0
+  index: -1
+testa dx ferita 2
+  rotate: false
+  xy: 1180, 326
+  size: 415, 483
+  orig: 415, 483
+  offset: 0, 0
+  index: -1
+testa dx sconfitta
+  rotate: false
+  xy: 1765, 1013
+  size: 415, 483
+  orig: 415, 483
+  offset: 0, 0
+  index: -1
+testa sx
+  rotate: false
+  xy: 1692, 578
+  size: 447, 433
+  orig: 447, 433
+  offset: 0, 0
+  index: -1
+testa sx ferita 1
+  rotate: false
+  xy: 1597, 143
+  size: 447, 433
+  orig: 447, 433
+  offset: 0, 0
+  index: -1
+testa sx ferita 2
+  rotate: false
+  xy: 1597, 143
+  size: 447, 433
+  orig: 447, 433
+  offset: 0, 0
+  index: -1
+testa sx sconfitta
+  rotate: false
+  xy: 2046, 143
+  size: 447, 433
+  orig: 447, 433
+  offset: 0, 0
+  index: -1
+zampa dx
+  rotate: false
+  xy: 2206, 1764
+  size: 369, 385
+  orig: 369, 385
+  offset: 0, 0
+  index: -1
+zampa dx ferita 1
+  rotate: false
+  xy: 2206, 2151
+  size: 369, 443
+  orig: 369, 443
+  offset: 0, 0
+  index: -1
+zampa dx ferita 2
+  rotate: false
+  xy: 2206, 2151
+  size: 369, 443
+  orig: 369, 443
+  offset: 0, 0
+  index: -1
+zampa dx sconfitta
+  rotate: false
+  xy: 2206, 2151
+  size: 369, 443
+  orig: 369, 443
+  offset: 0, 0
+  index: -1
+zampa sx
+  rotate: false
+  xy: 2182, 1369
+  size: 372, 393
+  orig: 372, 393
+  offset: 0, 0
+  index: -1
+zampa sx ferita 1
+  rotate: false
+  xy: 2182, 1369
+  size: 372, 393
+  orig: 372, 393
+  offset: 0, 0
+  index: -1
+zampa sx ferita 2
+  rotate: false
+  xy: 2182, 1369
+  size: 372, 393
+  orig: 372, 393
+  offset: 0, 0
+  index: -1
+zampa sx sconfitta
+  rotate: false
+  xy: 2182, 1369
+  size: 372, 393
+  orig: 372, 393
+  offset: 0, 0
+  index: -1
+zampina dx
+  rotate: false
+  xy: 2182, 909
+  size: 366, 225
+  orig: 366, 225
+  offset: 0, 0
+  index: -1
+zampina dx ferita 1
+  rotate: false
+  xy: 2182, 909
+  size: 366, 225
+  orig: 366, 225
+  offset: 0, 0
+  index: -1
+zampina dx ferita 2
+  rotate: false
+  xy: 2182, 909
+  size: 366, 225
+  orig: 366, 225
+  offset: 0, 0
+  index: -1
+zampina dx sconfitta
+  rotate: false
+  xy: 2182, 909
+  size: 366, 225
+  orig: 366, 225
+  offset: 0, 0
+  index: -1
+zampina sx
+  rotate: false
+  xy: 2182, 1136
+  size: 367, 231
+  orig: 367, 231
+  offset: 0, 0
+  index: -1
+zampina sx ferita 1
+  rotate: false
+  xy: 2182, 1136
+  size: 367, 231
+  orig: 367, 231
+  offset: 0, 0
+  index: -1
+zampina sx ferita 2
+  rotate: false
+  xy: 2182, 1136
+  size: 367, 231
+  orig: 367, 231
+  offset: 0, 0
+  index: -1
+zampina sx sconfitta
+  rotate: false
+  xy: 2182, 1136
+  size: 367, 231
+  orig: 367, 231
+  offset: 0, 0
+  index: -1

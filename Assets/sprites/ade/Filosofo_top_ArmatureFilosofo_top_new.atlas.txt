@@ -1,0 +1,62 @@
+
+Filosofo_top_ArmatureFilosofo_top_new.png
+size: 1305,1303
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Filosofo_top_new/Braccio_dx
+  rotate: true
+  xy: 1092, 544
+  size: 534, 196
+  orig: 534, 196
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Braccio_sx
+  rotate: false
+  xy: 757, 1080
+  size: 546, 221
+  orig: 546, 221
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Corpo
+  rotate: true
+  xy: 2, 102
+  size: 407, 612
+  orig: 407, 612
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Gamba_dx
+  rotate: false
+  xy: 616, 111
+  size: 226, 378
+  orig: 226, 378
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Gamba_sx
+  rotate: false
+  xy: 844, 86
+  size: 226, 378
+  orig: 226, 378
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Steso_braccio_dx
+  rotate: true
+  xy: 757, 491
+  size: 587, 179
+  orig: 587, 179
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Steso_braccio_sx
+  rotate: true
+  xy: 938, 466
+  size: 612, 152
+  orig: 612, 152
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Testa
+  rotate: false
+  xy: 2, 511
+  size: 753, 790
+  orig: 753, 790
+  offset: 0, 0
+  index: -1

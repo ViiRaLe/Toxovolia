@@ -1,0 +1,97 @@
+
+ostacolo intermittente.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Colore sostegno
+  rotate: false
+  xy: 751, 1180
+  size: 752, 105
+  orig: 752, 105
+  offset: 0, 0
+  index: -1
+Colore torcia
+  rotate: false
+  xy: 751, 1411
+  size: 798, 261
+  orig: 798, 261
+  offset: 0, 0
+  index: -1
+Colore torcia pos
+  rotate: true
+  xy: 616, 541
+  size: 627, 73
+  orig: 627, 73
+  offset: 0, 0
+  index: -1
+FIamma Gialla
+  rotate: true
+  xy: 1575, 1696
+  size: 247, 469
+  orig: 247, 469
+  offset: 0, 0
+  index: -1
+FIamma Rossa
+  rotate: false
+  xy: 2, 551
+  size: 499, 617
+  orig: 499, 617
+  offset: 0, 0
+  index: -1
+Fiamma Arancione
+  rotate: false
+  xy: 2, 2
+  size: 384, 547
+  orig: 384, 547
+  offset: 0, 0
+  index: -1
+Fiamma Bianca
+  rotate: false
+  xy: 691, 794
+  size: 198, 330
+  orig: 198, 330
+  offset: 0, 0
+  index: -1
+Line sostegno
+  rotate: false
+  xy: 751, 1287
+  size: 773, 122
+  orig: 773, 122
+  offset: 0, 0
+  index: -1
+Line torcia
+  rotate: false
+  xy: 751, 1674
+  size: 822, 269
+  orig: 822, 269
+  offset: 0, 0
+  index: -1
+Line torcia pos
+  rotate: false
+  xy: 751, 1126
+  size: 708, 52
+  orig: 708, 52
+  offset: 0, 0
+  index: -1
+Luce fuoco
+  rotate: false
+  xy: 2, 1170
+  size: 747, 773
+  orig: 747, 773
+  offset: 0, 0
+  index: -1
+Ombra
+  rotate: true
+  xy: 503, 541
+  size: 627, 111
+  orig: 627, 111
+  offset: 0, 0
+  index: -1
+Piedistallo
+  rotate: false
+  xy: 891, 995
+  size: 313, 129
+  orig: 313, 129
+  offset: 0, 0
+  index: -1

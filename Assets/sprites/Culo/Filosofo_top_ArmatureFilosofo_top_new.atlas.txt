@@ -1,0 +1,153 @@
+
+Filosofo_top_ArmatureFilosofo_top_new.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Filosofo_top_new/Bocca_aperta
+  rotate: false
+  xy: 788, 258
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Bocca_crucciata
+  rotate: false
+  xy: 2, 2
+  size: 99, 20
+  orig: 99, 20
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Bocca_neutra
+  rotate: false
+  xy: 1762, 778
+  size: 62, 13
+  orig: 62, 13
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Braccio_dx
+  rotate: false
+  xy: 893, 462
+  size: 489, 275
+  orig: 489, 275
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Braccio_sx
+  rotate: false
+  xy: 893, 739
+  size: 522, 269
+  orig: 522, 269
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Corpo
+  rotate: false
+  xy: 478, 460
+  size: 413, 548
+  orig: 413, 548
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Drappo
+  rotate: true
+  xy: 478, 201
+  size: 116, 308
+  orig: 116, 308
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Gamba_dx
+  rotate: true
+  xy: 2, 24
+  size: 226, 368
+  orig: 226, 368
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Gamba_sx
+  rotate: true
+  xy: 913, 273
+  size: 187, 356
+  orig: 187, 356
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Occhi_aperti
+  rotate: true
+  xy: 372, 56
+  size: 194, 75
+  orig: 194, 75
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Occhi_chiusi
+  rotate: false
+  xy: 449, 119
+  size: 189, 80
+  orig: 189, 80
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Palpebre
+  rotate: true
+  xy: 1977, 856
+  size: 152, 53
+  orig: 152, 53
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Pupilla_dx
+  rotate: false
+  xy: 449, 101
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Pupilla_sx
+  rotate: false
+  xy: 640, 183
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Rughe
+  rotate: false
+  xy: 1271, 259
+  size: 220, 201
+  orig: 220, 201
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Sopracciglia
+  rotate: false
+  xy: 1417, 750
+  size: 343, 41
+  orig: 343, 41
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Steso_braccio_dx
+  rotate: false
+  xy: 1417, 793
+  size: 558, 215
+  orig: 558, 215
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Steso_braccio_sx
+  rotate: false
+  xy: 478, 319
+  size: 433, 139
+  orig: 433, 139
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Testa
+  rotate: false
+  xy: 2, 252
+  size: 474, 756
+  orig: 474, 756
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Vuota
+  rotate: false
+  xy: 1384, 711
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+Filosofo_top_new/Vuota2
+  rotate: false
+  xy: 372, 33
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1

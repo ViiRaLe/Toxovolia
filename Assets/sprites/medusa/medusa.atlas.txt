@@ -1,0 +1,132 @@
+
+medusa.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bocca aperta
+  rotate: false
+  xy: 725, 337
+  size: 123, 96
+  orig: 123, 96
+  offset: 0, 0
+  index: -1
+Bocca neutra
+  rotate: true
+  xy: 2018, 917
+  size: 84, 17
+  orig: 84, 17
+  offset: 0, 0
+  index: -1
+Braccio_steso_dx
+  rotate: false
+  xy: 757, 630
+  size: 460, 161
+  orig: 460, 161
+  offset: 0, 0
+  index: -1
+Braccio_steso_sx
+  rotate: false
+  xy: 757, 793
+  size: 549, 208
+  orig: 549, 208
+  offset: 0, 0
+  index: -1
+COrpo
+  rotate: false
+  xy: 2, 287
+  size: 288, 714
+  orig: 288, 714
+  offset: 0, 0
+  index: -1
+Lingua serpente
+  rotate: true
+  xy: 850, 345
+  size: 88, 121
+  orig: 88, 121
+  offset: 0, 0
+  index: -1
+Palpebre
+  rotate: false
+  xy: 1308, 763
+  size: 270, 69
+  orig: 270, 69
+  offset: 0, 0
+  index: -1
+Palpebre_flash
+  rotate: false
+  xy: 292, 337
+  size: 431, 261
+  orig: 431, 261
+  offset: 0, 0
+  index: -1
+Punta
+  rotate: true
+  xy: 1308, 834
+  size: 167, 397
+  orig: 167, 397
+  offset: 0, 0
+  index: -1
+Pupille
+  rotate: false
+  xy: 725, 435
+  size: 246, 78
+  orig: 246, 78
+  offset: 0, 0
+  index: -1
+Serpente_1
+  rotate: false
+  xy: 757, 515
+  size: 265, 113
+  orig: 265, 113
+  offset: 0, 0
+  index: -1
+Serpente_2
+  rotate: true
+  xy: 1707, 795
+  size: 206, 309
+  orig: 206, 309
+  offset: 0, 0
+  index: -1
+Serpente_3
+  rotate: true
+  xy: 292, 101
+  size: 234, 275
+  orig: 234, 275
+  offset: 0, 0
+  index: -1
+Serpente_4
+  rotate: false
+  xy: 2, 12
+  size: 273, 273
+  orig: 273, 273
+  offset: 0, 0
+  index: -1
+Serpente_5
+  rotate: true
+  xy: 569, 83
+  size: 252, 201
+  orig: 252, 201
+  offset: 0, 0
+  index: -1
+Serpente_dietro
+  rotate: true
+  xy: 1024, 440
+  size: 188, 215
+  orig: 188, 215
+  offset: 0, 0
+  index: -1
+Testa
+  rotate: false
+  xy: 292, 600
+  size: 463, 401
+  orig: 463, 401
+  offset: 0, 0
+  index: -1
+pupille_flash
+  rotate: false
+  xy: 277, 2
+  size: 269, 97
+  orig: 269, 97
+  offset: 0, 0
+  index: -1

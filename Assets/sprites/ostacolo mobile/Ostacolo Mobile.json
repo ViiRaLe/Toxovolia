@@ -1,0 +1,427 @@
+{
+"skeleton": { "hash": "7FSVD4+bmpVjwURVIzyR1+lvCOc", "spine": "3.6.53", "width": 1010, "height": 1788, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 1.73, "y": 0.47 },
+	{ "name": "Base Busto", "parent": "bone", "length": 315.55, "rotation": 90.65, "x": -43.27, "y": 369.61 },
+	{ "name": "Base Busto2", "parent": "Base Busto", "x": 66.77, "y": 4.65 },
+	{ "name": "Face", "parent": "Base Busto", "length": 577.78, "rotation": -12.18, "x": 250.62, "y": -1.06 },
+	{ "name": "Base elmo", "parent": "Face", "length": 940.87, "rotation": -4.19, "x": -4.54, "y": 35.37 },
+	{ "name": "Base Ciuffo", "parent": "Base elmo", "length": 202.81, "rotation": 46.97, "x": 791.44, "y": 2.08 },
+	{ "name": "Base Ciuffo2", "parent": "Base Ciuffo", "length": 202.81, "rotation": 74.38, "x": 202.81 },
+	{ "name": "Base interno elmo", "parent": "Base elmo", "length": 704.08, "rotation": -131.08, "x": 389.7, "y": -72.32 },
+	{ "name": "Braccio SX", "parent": "Base Busto", "length": 472.66, "rotation": -125.56, "x": 297.72, "y": 18.23 },
+	{ "name": "Braccio dx", "parent": "Base Busto", "length": 471.64, "rotation": -125.38, "x": 243.13, "y": 132.46 },
+	{ "name": "Gonna", "parent": "Base Busto", "length": 267.49, "rotation": 168.86, "x": 116.87, "y": -18.14 },
+	{ "name": "Gonna3", "parent": "Gonna", "length": 270.39, "rotation": -12.25, "x": 33.99, "y": 82.48 },
+	{ "name": "Gonna4", "parent": "Gonna", "length": 284.08, "rotation": -0.37, "x": 19.37, "y": 98.19 },
+	{ "name": "Gonna5", "parent": "Gonna", "length": 280.3, "rotation": 13.85, "x": 24.61, "y": 115.06 },
+	{ "name": "Gonna6", "parent": "Gonna", "length": 254.7, "rotation": 21.29, "x": 1.6, "y": 130.89 },
+	{ "name": "Gonna7", "parent": "Gonna", "length": 289.81, "rotation": 12.11, "x": -12.12, "y": -93.45 },
+	{ "name": "Gonna8", "parent": "Gonna", "length": 288.09, "rotation": 11.47, "x": -4.69, "y": -138.11 },
+	{ "name": "Gonna9", "parent": "Gonna", "length": 286.41, "rotation": 10.82, "x": 0.61, "y": -184.83 },
+	{ "name": "Leg DX", "parent": "Base Busto", "length": 306.12, "rotation": 179.62, "x": -85.74, "y": 68.88 },
+	{ "name": "Leg SX", "parent": "Base Busto", "length": 307.83, "rotation": -178.44, "x": -84.53, "y": -85.68 }
+],
+"slots": [
+	{ "name": "Leg SX", "bone": "Leg SX", "attachment": "Leg SX" },
+	{ "name": "Leg DX", "bone": "Leg DX", "attachment": "Leg DX" },
+	{ "name": "Gonna", "bone": "Gonna", "attachment": "Gonna" },
+	{ "name": "Base interno elmo", "bone": "Base interno elmo", "attachment": "Base interno elmo" },
+	{ "name": "Braccio SX", "bone": "Braccio SX", "attachment": "Braccio SX" },
+	{ "name": "Base Busto", "bone": "Base Busto", "attachment": "Base Busto" },
+	{ "name": "Base Ciuffo", "bone": "Base Ciuffo", "attachment": "Base Ciuffo" },
+	{ "name": "Face", "bone": "Face", "attachment": "Face" },
+	{ "name": "Base elmo", "bone": "Base elmo", "attachment": "Base elmo" },
+	{ "name": "Braccio dx", "bone": "Braccio dx", "attachment": "Braccio dx" },
+	{ "name": "ROCK Leg SX", "bone": "root" },
+	{ "name": "ROCK Leg DX", "bone": "root" },
+	{ "name": "ROCK Gonna", "bone": "root" },
+	{ "name": "ROCK Base interno elmo", "bone": "root" },
+	{ "name": "ROCK Braccio SX", "bone": "root" },
+	{ "name": "ROCK Base Busto", "bone": "root" },
+	{ "name": "ROCK Base Ciuffo", "bone": "root" },
+	{ "name": "ROCK Face", "bone": "root" },
+	{ "name": "ROCK Base elmo", "bone": "root" },
+	{ "name": "ROCK Braccio dx", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"Base Busto": {
+			"Base Busto": { "x": 134.25, "y": -15.57, "rotation": -90.65, "width": 479, "height": 371 },
+			"ROCK Base Busto": { "x": 134.25, "y": -15.57, "rotation": -90.65, "width": 479, "height": 371 }
+		},
+		"Base Ciuffo": {
+			"Base Ciuffo": {
+				"type": "mesh",
+				"uvs": [ 0.98354, 0.13954, 0.99999, 0.19244, 1, 0.26693, 0.97635, 0.30265, 0.89716, 0.31496, 0.83648, 0.36831, 0.78474, 0.42246, 0.67525, 0.40727, 0.57312, 0.4066, 0.4898, 0.42682, 0.40484, 0.46959, 0.31982, 0.53885, 0.27372, 0.60829, 0.23736, 0.73586, 0.17986, 0.81616, 0.11833, 0.82766, 0.06093, 0.99999, 0, 1, 0, 0.93184, 0, 0.80023, 0.00647, 0.65441, 0.02126, 0.55666, 0.04621, 0.45751, 0.07023, 0.37251, 0.11182, 0.27062, 0.14879, 0.20215, 0.1876, 0.14785, 0.20516, 0.12646, 0.22258, 0.10447, 0.25374, 0.07881, 0.31809, 0.03666, 0.39036, 0.0055, 0.46908, 0, 0.62945, 0, 0.72342, 0.02244, 0.82865, 0.05609, 0.9116, 0.08057, 0.95578, 0.11218 ],
+				"triangles": [ 17, 18, 16, 15, 16, 19, 16, 18, 19, 14, 15, 20, 21, 13, 14, 20, 15, 19, 22, 12, 13, 21, 14, 20, 23, 11, 12, 22, 13, 21, 24, 10, 11, 23, 12, 22, 25, 9, 10, 24, 11, 23, 10, 24, 25, 25, 26, 9, 9, 26, 8, 5, 6, 30, 29, 30, 6, 26, 27, 8, 27, 28, 8, 8, 28, 7, 7, 28, 29, 29, 6, 7, 30, 31, 5, 5, 31, 4, 31, 32, 4, 4, 32, 3, 32, 33, 3, 3, 33, 2, 33, 34, 2, 34, 1, 2, 34, 35, 1, 35, 0, 1, 35, 36, 0, 36, 37, 0 ],
+				"vertices": [ 1, 6, 9.54, -453.86, 1, 1, 6, -41.83, -440.93, 1, 1, 6, -102.77, -403.94, 1, 1, 6, -120.34, -367.01, 1, 1, 6, -91.41, -296.66, 1, 1, 6, -105.16, -220.94, 1, 1, 6, -123.98, -152.08, 1, 1, 6, -57.62, -70.8, 1, 2, 6, -6.78, 11.71, 0.99582, 7, -45.15, 205.01, 0.00418, 2, 6, 17.72, 89.34, 0.76541, 7, 36.21, 202.31, 0.23459, 2, 6, 24.57, 179.5, 0.35561, 7, 124.88, 219.98, 0.64439, 2, 6, 9.79, 282.86, 0.10605, 7, 220.45, 262.05, 0.89395, 2, 6, -24.31, 354.75, 0.03328, 7, 280.51, 314.24, 0.96672, 2, 6, -110.76, 447.61, 0.00348, 7, 346.66, 422.5, 0.99652, 2, 6, -148.13, 534.14, 2.0E-4, 7, 419.93, 481.79, 0.9998, 1, 7, 479.13, 476.64, 1, 1, 7, 576.05, 620.76, 1, 1, 7, 631.73, 605.17, 1, 1, 7, 614.14, 542.36, 1, 1, 7, 580.18, 421.07, 1, 1, 7, 536.63, 288.36, 1, 1, 7, 497.89, 202.05, 1, 2, 6, 211.08, 464.42, 4.0E-5, 7, 449.5, 117.07, 0.99996, 1, 7, 405.61, 44.89, 1, 1, 7, 341.31, -38.36, 1, 1, 7, 289.86, -92.01, 1, 1, 7, 240.37, -132.11, 1, 1, 7, 218.81, -147.32, 1, 1, 7, 197.21, -163.13, 1, 1, 7, 162.11, -178.8, 1, 2, 6, 421.45, 34.85, 0.01395, 7, 92.43, -201.18, 0.98605, 2, 6, 411.34, -39.25, 0.10563, 7, 18.34, -211.4, 0.89437, 2, 6, 377.07, -105.84, 0.32012, 7, -55.01, -196.32, 0.67988, 2, 6, 298.09, -235.93, 0.82742, 7, -201.56, -155.28, 0.17258, 2, 6, 233.45, -301.02, 0.9554, 7, -281.65, -110.55, 0.0446, 2, 6, 154.1, -369.66, 0.99768, 7, -369.12, -52.61, 0.00232, 1, 6, 93.22, -424.79, 1, 1, 6, 45.6, -444.93, 1 ],
+				"hull": 38,
+				"edges": [ 72, 74, 0, 74, 72, 0, 70, 72, 0, 70, 0, 2, 70, 2, 68, 70, 2, 68, 2, 4, 68, 4, 66, 68, 4, 66, 4, 6, 66, 6, 64, 66, 6, 64, 6, 8, 64, 8, 62, 64, 8, 62, 8, 10, 62, 10, 60, 62, 10, 60, 10, 12, 60, 12, 58, 60, 12, 58, 12, 14, 58, 14, 54, 56, 56, 58, 14, 56, 14, 16, 56, 16, 52, 54, 16, 52, 16, 18, 18, 20, 52, 18, 50, 52, 18, 50, 50, 20, 48, 50, 20, 48, 20, 22, 48, 22, 46, 48, 22, 46, 22, 24, 46, 24, 44, 46, 24, 44, 24, 26, 44, 26, 42, 44, 26, 42, 26, 28, 42, 28, 40, 42, 28, 40, 28, 30, 40, 30, 38, 40, 30, 38, 30, 32, 32, 34, 38, 32, 34, 36, 36, 38, 32, 36 ],
+				"width": 949,
+				"height": 957
+			},
+			"ROCK Base Ciuffo": { "x": -47.17, "y": 117.41, "rotation": -121.26, "width": 949, "height": 957 }
+		},
+		"Base elmo": {
+			"Base elmo": { "x": 325.99, "y": -127.92, "rotation": -74.29, "width": 921, "height": 1275 },
+			"ROCK Base elmo": { "x": 325.99, "y": -127.92, "rotation": -74.29, "width": 921, "height": 1275 }
+		},
+		"Base interno elmo": {
+			"Base interno elmo": { "x": 348.58, "y": 14.16, "rotation": 56.79, "width": 568, "height": 782 },
+			"ROCK Base interno elmo": { "x": 348.58, "y": 14.16, "rotation": 56.79, "width": 568, "height": 782 }
+		},
+		"Braccio SX": {
+			"Braccio SX": { "x": 232.94, "y": 6.35, "rotation": 34.9, "width": 407, "height": 301 },
+			"ROCK Braccio SX": { "x": 232.94, "y": 6.35, "rotation": 34.9, "width": 407, "height": 301 }
+		},
+		"Braccio dx": {
+			"Braccio dx": { "x": 229.9, "y": 5.8, "rotation": 34.72, "width": 409, "height": 301 },
+			"ROCK Braccio dx": { "x": 229.9, "y": 5.8, "rotation": 34.72, "width": 409, "height": 301 }
+		},
+		"Face": {
+			"Face": { "x": 289.46, "y": -31.67, "rotation": -78.48, "width": 653, "height": 584 },
+			"ROCK Face": { "x": 289.46, "y": -31.67, "rotation": -78.48, "width": 653, "height": 584 }
+		},
+		"Gonna": {
+			"Gonna": {
+				"type": "mesh",
+				"uvs": [ 0.43843, 0.12997, 0.52897, 0.16819, 0.56219, 0.25972, 0.58627, 0.34419, 0.6069, 0.43391, 0.62753, 0.52636, 0.58856, 0.58069, 0.53928, 0.61305, 0.48085, 0.64384, 0.37425, 0.64323, 0.28167, 0.63034, 0.15985, 0.58916, 0.11701, 0.56873, 0.04247, 0.53137, 3.0E-5, 0.46618, 0, 0.38286, 0, 0.30868, 0.00688, 0.23598, 0.0149, 0.17225, 0.02521, 0.09098, 0.04011, 0.05406, 0.15016, 0.05433, 0.33874, 0.08272 ],
+				"triangles": [ 7, 13, 14, 6, 14, 15, 8, 12, 13, 17, 4, 16, 15, 16, 5, 17, 18, 3, 2, 18, 19, 19, 20, 1, 20, 21, 0, 12, 9, 11, 6, 7, 14, 5, 6, 15, 4, 5, 16, 3, 4, 17, 18, 2, 3, 2, 19, 1, 20, 0, 1, 13, 7, 8, 9, 12, 8, 9, 10, 11, 21, 22, 0 ],
+				"vertices": [ 5, 11, -22.2, 87.31, 0.12577, 12, -55.94, -7.21, 0.15436, 13, -41.5, -11.14, 0.58049, 14, -52.1, -15.73, 0.00591, 15, -38, -31.96, 0.13348, 1, 15, -1.1, 26.62, 1, 1, 15, 62.76, 38.53, 1, 1, 15, 120.82, 44.9, 1, 1, 15, 181.83, 48.21, 1, 1, 15, 244.61, 51.19, 1, 2, 14, 251.59, 73.48, 0.01904, 15, 274.68, 17.21, 0.98096, 2, 14, 270.88, 37.2, 0.5477, 15, 289.12, -21.27, 0.4523, 2, 13, 286.4, 82.48, 0.0377, 14, 288.76, -5.53, 0.9623, 4, 12, 274.62, 81.8, 0.00384, 13, 300.3, 7.87, 0.94359, 14, 283.9, -81.27, 0.05255, 15, 286.69, -140.43, 3.0E-5, 3, 12, 292.24, 17.71, 0.84589, 13, 304.35, -58.48, 0.15121, 16, 355.52, 57.89, 0.0029, 4, 11, 312.35, -52.48, 0.00393, 12, 300.66, -72.81, 0.06392, 16, 325.85, -28.04, 0.52389, 17, 327.74, 20.88, 0.40826, 4, 12, 300, -106.16, 0.00441, 16, 311.48, -58.14, 0.10562, 17, 313.71, -9.39, 0.77724, 18, 317.36, 41.08, 0.11273, 1, 18, 292.36, -11.85, 1, 1, 18, 249.1, -41.82, 1, 1, 18, 194.02, -41.52, 1, 1, 18, 144.99, -41.24, 1, 1, 18, 96.97, -36.07, 1, 1, 18, 54.87, -30.11, 1, 1, 18, 1.19, -22.46, 1, 2, 17, -27.37, -58.3, 0.01281, 18, -23.14, -11.71, 0.98719, 3, 16, -27.73, -24.9, 0.3855, 17, -25.85, 20.04, 0.61244, 18, -22.52, 66.63, 0.00207, 5, 11, -40, 11.84, 0.82484, 12, -57.31, -84.74, 0.06485, 13, -58.81, -86.73, 0.08653, 15, -81.98, -95.83, 9.0E-5, 16, -5.16, 108.79, 0.0237 ],
+				"hull": 23,
+				"edges": [ 42, 44, 0, 44, 42, 0, 40, 42, 0, 40, 0, 2, 40, 2, 38, 40, 2, 38, 2, 4, 38, 4, 36, 38, 4, 36, 4, 6, 36, 6, 34, 36, 6, 34, 6, 8, 34, 8, 32, 34, 8, 32, 8, 10, 32, 10, 30, 32, 10, 30, 10, 12, 30, 12, 28, 30, 12, 28, 12, 14, 28, 14, 26, 28, 14, 26, 14, 16, 26, 16, 24, 26, 16, 24, 16, 18, 18, 20, 24, 18, 22, 24, 18, 22, 22, 20 ],
+				"width": 712,
+				"height": 661
+			},
+			"ROCK Gonna": { "x": 210.32, "y": 174.94, "rotation": 100.49, "width": 712, "height": 661 }
+		},
+		"Leg DX": {
+			"Leg DX": { "x": 151.62, "y": 10.7, "rotation": 89.72, "width": 182, "height": 314 },
+			"ROCK Leg DX": { "x": 151.62, "y": 10.7, "rotation": 89.72, "width": 182, "height": 314 }
+		},
+		"Leg SX": {
+			"Leg SX": { "x": 152, "y": 9.03, "rotation": 87.79, "width": 182, "height": 314 },
+			"ROCK Leg SX": { "x": 152, "y": 9.03, "rotation": 87.79, "width": 182, "height": 314 }
+		}
+	}
+},
+"animations": {
+	"Caduta": {
+		"bones": {
+			"Leg SX": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5667, "angle": 84.83 },
+					{ "time": 0.7333, "angle": 88.72 }
+				]
+			},
+			"Leg DX": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5667, "angle": -312.08 },
+					{ "time": 0.7333, "angle": -308.2 }
+				]
+			},
+			"Base Busto": {
+				"rotate": [
+					{ "time": 0.1333, "angle": 0 },
+					{ "time": 0.7333, "angle": -3.88 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1333, "x": -0.79, "y": 68.82 },
+					{ "time": 0.5667, "x": 2.8, "y": -245.28 }
+				]
+			},
+			"Braccio dx": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4, "angle": 43.59 },
+					{ "time": 0.6667, "angle": -6.03 },
+					{ "time": 0.8333, "angle": -17.07 }
+				]
+			},
+			"Braccio SX": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4, "angle": 43.59 },
+					{ "time": 0.4667, "angle": 35.51 },
+					{ "time": 0.6667, "angle": -6.03 }
+				]
+			},
+			"Face": {
+				"rotate": [
+					{ "time": 0, "angle": 22.55 },
+					{ "time": 0.1333, "angle": 34.58 },
+					{ "time": 0.2333, "angle": 35.69 },
+					{ "time": 0.8333, "angle": -23.03 }
+				]
+			},
+			"Gonna": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5667, "angle": -337.73 },
+					{ "time": 0.7333, "angle": -333.85 }
+				]
+			},
+			"Base Busto2": {
+				"rotate": [
+					{ "time": 0.7333, "angle": 3.88 }
+				],
+				"translate": [
+					{ "time": 0.7333, "x": -0.47, "y": 4.51 }
+				]
+			},
+			"Base Ciuffo": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1333, "angle": -1.42 }
+				]
+			},
+			"Base Ciuffo2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1333, "angle": -4.33 }
+				]
+			},
+			"Base elmo": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1333, "angle": -4.52 },
+					{ "time": 0.8333, "angle": 6.6 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1333, "x": 2.8, "y": 0.25 }
+				]
+			}
+		}
+	},
+	"Camminata": {
+		"bones": {
+			"Face": {
+				"rotate": [
+					{ "time": 0, "angle": 19.72 },
+					{ "time": 0.5, "angle": -11.96 },
+					{ "time": 1.3333, "angle": 19.72 }
+				]
+			},
+			"Braccio SX": {
+				"rotate": [
+					{ "time": 0, "angle": 21.15 },
+					{ "time": 0.1667, "angle": 0.14 },
+					{ "time": 0.3333, "angle": 21.15 },
+					{ "time": 0.5, "angle": 0.14 },
+					{ "time": 0.6667, "angle": 21.15 },
+					{ "time": 0.8333, "angle": 0.14 },
+					{ "time": 1, "angle": 21.15 },
+					{ "time": 1.1667, "angle": 0.14 },
+					{ "time": 1.3333, "angle": 21.15 }
+				]
+			},
+			"Braccio dx": {
+				"rotate": [
+					{ "time": 0, "angle": -11.03 },
+					{ "time": 0.1667, "angle": 30.41 },
+					{ "time": 0.3333, "angle": -11.03 },
+					{ "time": 0.5, "angle": 30.41 },
+					{ "time": 0.6667, "angle": -11.03 },
+					{ "time": 0.8333, "angle": 30.41 },
+					{ "time": 1, "angle": -11.03 },
+					{ "time": 1.1667, "angle": 30.41 },
+					{ "time": 1.3333, "angle": -11.03 }
+				]
+			},
+			"Leg DX": {
+				"rotate": [
+					{ "time": 0, "angle": -26.47 },
+					{ "time": 0.6, "angle": -339.47 },
+					{ "time": 1.3333, "angle": -26.47 }
+				]
+			},
+			"Leg SX": {
+				"rotate": [
+					{ "time": 0, "angle": 27.5 },
+					{ "time": 0.6, "angle": 328.56 },
+					{ "time": 1, "angle": 18.35 },
+					{ "time": 1.3333, "angle": 27.5 }
+				]
+			},
+			"Base Ciuffo": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6667, "angle": -6.19 },
+					{ "time": 1.3333, "angle": 0 }
+				]
+			},
+			"Base Ciuffo2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6667, "angle": -2.44 },
+					{ "time": 1.3333, "angle": 0 }
+				]
+			},
+			"Gonna": {
+				"rotate": [
+					{ "time": 0, "angle": -4.1 },
+					{ "time": 0.5, "angle": 3.75 },
+					{ "time": 1.3333, "angle": -4.1 }
+				]
+			},
+			"Gonna9": {
+				"rotate": [
+					{ "time": 0, "angle": -4.03 },
+					{ "time": 0.5, "angle": 1.6 },
+					{ "time": 1.3333, "angle": -4.03 }
+				]
+			},
+			"Gonna8": {
+				"rotate": [
+					{ "time": 0, "angle": -2.25 }
+				]
+			},
+			"Gonna7": {
+				"rotate": [
+					{ "time": 0, "angle": -2.22 }
+				]
+			},
+			"Gonna3": {
+				"rotate": [
+					{ "time": 0, "angle": -1.27 }
+				]
+			},
+			"Gonna6": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 2.31 },
+					{ "time": 1.3333, "angle": 0 }
+				]
+			},
+			"Base elmo": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 1.5,
+						"curve": [ 1, -0.01, 0.804, 0.07 ]
+					},
+					{ "time": 0.3333, "angle": -4.6 },
+					{ "time": 0.6667, "angle": 1.46 },
+					{ "time": 1, "angle": -4.6 },
+					{ "time": 1.1333, "angle": 1.2 },
+					{ "time": 1.3333, "angle": 1.5 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6667, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				]
+			},
+			"Base Busto": {
+				"rotate": [
+					{ "time": 0, "angle": 6.52 },
+					{ "time": 0.5, "angle": 0.81 },
+					{ "time": 1.3333, "angle": 6.52 }
+				]
+			}
+		}
+	},
+	"Rock Freeze": {
+		"slots": {
+			"Base Busto": {
+				"attachment": [
+					{ "time": 0.6, "name": "ROCK Base Busto" },
+					{ "time": 0.8333, "name": "ROCK Base Busto" }
+				]
+			},
+			"Base Ciuffo": {
+				"attachment": [
+					{ "time": 0.6, "name": "ROCK Base Ciuffo" },
+					{ "time": 0.8333, "name": "ROCK Base Ciuffo" }
+				]
+			},
+			"Base elmo": {
+				"attachment": [
+					{ "time": 0.6, "name": "ROCK Base elmo" },
+					{ "time": 0.8333, "name": "ROCK Base elmo" }
+				]
+			},
+			"Base interno elmo": {
+				"attachment": [
+					{ "time": 0.6, "name": "ROCK Base interno elmo" },
+					{ "time": 0.8333, "name": "ROCK Base interno elmo" }
+				]
+			},
+			"Braccio SX": {
+				"attachment": [
+					{ "time": 0.6, "name": "ROCK Braccio SX" },
+					{ "time": 0.8333, "name": "ROCK Braccio SX" }
+				]
+			},
+			"Braccio dx": {
+				"attachment": [
+					{ "time": 0.6, "name": "ROCK Braccio dx" },
+					{ "time": 0.8333, "name": "ROCK Braccio dx" }
+				]
+			},
+			"Face": {
+				"attachment": [
+					{ "time": 0.6, "name": "ROCK Face" },
+					{ "time": 0.8333, "name": "ROCK Face" }
+				]
+			},
+			"Gonna": {
+				"attachment": [
+					{ "time": 0.6, "name": "ROCK Gonna" },
+					{ "time": 0.8333, "name": "ROCK Gonna" }
+				]
+			},
+			"Leg DX": {
+				"attachment": [
+					{ "time": 0.6, "name": "ROCK Leg DX" },
+					{ "time": 0.8333, "name": "ROCK Leg DX" }
+				]
+			},
+			"Leg SX": {
+				"attachment": [
+					{ "time": 0.6, "name": "ROCK Leg SX" },
+					{ "time": 0.8333, "name": "ROCK Leg SX" }
+				]
+			}
+		},
+		"bones": {
+			"Face": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4667, "angle": 23.39 }
+				]
+			},
+			"Leg SX": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4667, "angle": 23.64 }
+				]
+			},
+			"Braccio dx": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4667, "angle": 34.67 }
+				]
+			},
+			"Braccio SX": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4667, "angle": -16.9 }
+				]
+			},
+			"Leg DX": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4667, "angle": -4.09 }
+				]
+			}
+		}
+	}
+}
+}

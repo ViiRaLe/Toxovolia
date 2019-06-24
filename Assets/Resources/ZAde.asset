@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4f77d5afb98cd14cb4c24b409d43ef4, type: 3}
+  m_Name: ZAde
+  m_EditorClassIdentifier: 
+  name: Ade
+  rarity: 3
+  ability: 2
+  skin: {fileID: 11400000, guid: e18a6f94f742079448131b1ab50b503c, type: 2}
+  card: {fileID: 21300000, guid: aca057b953bec804186523d46ae72d3f, type: 3}
+  controller: {fileID: 9100000, guid: 5984d8c0a98f69b449e7b82fd02a7db4, type: 2}
+  level: 1
+  exp: 0
+  force: 0
+  agility: 0
+  intelligence: 0

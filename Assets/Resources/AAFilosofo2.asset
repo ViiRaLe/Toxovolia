@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4f77d5afb98cd14cb4c24b409d43ef4, type: 3}
+  m_Name: AAFilosofo2
+  m_EditorClassIdentifier: 
+  name: Filosofo2
+  rarity: 0
+  ability: 0
+  skin: {fileID: 11400000, guid: a4fc9043b664ac14388eeda0097e606b, type: 2}
+  card: {fileID: 21300000, guid: 3a86f5912bf3a41489dbe8e18e30dcac, type: 3}
+  controller: {fileID: 9100000, guid: 0f4d78e28077cfb4ba3dc74e7a17b7b5, type: 2}
+  level: 1
+  exp: 0
+  force: 0
+  agility: 0
+  intelligence: 0

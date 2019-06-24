@@ -1,0 +1,48 @@
+
+Ostacolo mobile.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Busto
+  rotate: true
+  xy: 2, 99
+  size: 389, 518
+  orig: 389, 518
+  offset: 0, 0
+  index: -1
+Column
+  rotate: false
+  xy: 522, 111
+  size: 345, 377
+  orig: 345, 377
+  offset: 0, 0
+  index: -1
+Ombra
+  rotate: false
+  xy: 2, 2
+  size: 461, 95
+  orig: 461, 95
+  offset: 0, 0
+  index: -1
+Star 1
+  rotate: false
+  xy: 465, 22
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+Star 2
+  rotate: false
+  xy: 869, 369
+  size: 81, 119
+  orig: 81, 119
+  offset: 0, 0
+  index: -1
+Star 3
+  rotate: false
+  xy: 869, 304
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
