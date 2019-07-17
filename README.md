@@ -1,6 +1,6 @@
 # Toxovolia
 
-# MY ROLE: Programmer
+# MY ROLE: Gameplay Programmer
 
 Toxovolia is a Freemium skill-based game made for Android made in Unity3D in collaboration & commissioned by Broken Arms Games.
 
